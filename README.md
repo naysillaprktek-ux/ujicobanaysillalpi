@@ -4,4 +4,3 @@ HEAD
 ini dari main
 perubahan di fitur-baru
 ini dari fitur-baru
-fitur-baru
